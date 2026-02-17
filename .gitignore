@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+data/
+logs/
+*.sqlite
+*.db
+models/*.h5
+models/*.pkl
+models/*.pt
