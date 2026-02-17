@@ -8,3 +8,5 @@ logs/
 models/*.h5
 models/*.pkl
 models/*.pt
+.ipynb_checkpoints/
+*.ipynb
